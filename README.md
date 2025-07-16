@@ -1,7 +1,3 @@
-Sure! Here's a **beautifully formatted README.md** for your C# project based on the file names you've uploaded. Since I can't see the actual code inside those files, this README assumes a general-purpose **number prediction engine** or **machine learning model-based number predictor GUI app**, which seems to be the likely context from the file names.
-
----
-
 # 🧮 Number Prediction Engine
 
 A simple yet powerful Windows Forms application that predicts numbers using a trained machine learning model. Built with C# and ML.NET, this project demonstrates how to integrate predictive analytics into a user-friendly desktop interface.
